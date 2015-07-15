@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-7f03f5b8630e0fe859b673731e3c599569abc44b.jar" />
+    </item>
+    <item
+        jar="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\classes-37796fbccc14a2f1f3d607ff9cb1832cd02df23d.jar" />
+    </item>
+    <item
+        jar="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\classes-e595153f0e08da8b1e575b5b428197b253993b6c.jar" />
+    </item>
+    <item
+        jar="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\libs\slider.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5c03f3a39e0eb9ba2f74681d63093341ca9f3e55">
+        <dex dex="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\slider-e58b4f09f399e453ea1f4d8d4cbac0e133aede72.jar" />
+    </item>
+    <item
+        jar="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\classes-afc76a539afe93a493403fd73b7ab575cb010c67.jar" />
+    </item>
+    <item
+        jar="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\classes-1e67dfe34dfe18a226702d10e7bcb77434bc85aa.jar" />
+    </item>
+    <item
+        jar="E:\adt-bundle-windows-x86_64-20140624\adt-bundle-windows-x86_64-20140624\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-4253b8a88ee8682d8409d6abb2b917bf85eebb98.jar" />
+    </item>
+    <item
+        jar="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\IAB Workspace\AS_IAB\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\classes-9796f2a2cf79f12fe725f70f57b2dd1667176b38.jar" />
+    </item>
+
+</items>

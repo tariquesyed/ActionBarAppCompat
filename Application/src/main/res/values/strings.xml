@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_location">Location</string>
+    <string name="menu_settings">Settings</string>
+    <string name="main_description">This is a basic Activity showing an Action Bar which has been
+        styled.
+    </string>
+
+
+
+    <string name="welcome_top_text">technology lab</string>
+    <string name="welcome_bottom_text">Get Started</string>
+    <string name="welcome_center_heading">Mobile \nCreative QA</string>
+	<string name="welcome_text">A tool to test mobile creatives \nin multiple
+	    mobile Ads SDK \nenvironments</string>
+
+    <string name="header_back">Back</string>
+    <string name="user_name">Name      </string>
+    <string name="user_company">Company</string>
+    <string name="user_email">Email</string>
+
+	<string name="policy_text">By continuing, you are agree to our \n<a href="https://www.claritusconsulting.com">Terms</a>
+	    and <a href="http://www.claritusconsulting.com">Privacy Policy.</a> </string>
+
+    <string name="login_bottom_text">Continue</string>
+
+    <string name="Fragment1">Ad Tag</string>
+    <string name="Fragment2">Select SDK</string>
+    <string name="Fragment3">Ad Type</string>
+
+    <string-array name="nav_drawer_menu_items">
+        <item >first</item>
+        <item >second</item>
+        <item >third</item>
+    </string-array>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="title_activity_navigation__drawer_">Navigation_Drawer_Activity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="test_creative">TEST CREATIVE</string>
+
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+</resources>

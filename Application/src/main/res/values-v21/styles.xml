@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<resources>
+
+    <!--
+        This is the styled theme.
+
+        It extends from Theme.AppCompat.Light, but it could extend from any of
+        the Theme.AppCompat themes depending on your color scheme. This theme can be applied to
+        your application or individual activities in the AndroidManifest.xml. In this sample it is
+        set on the application.
+
+        This differs from the version of this theme in 'res/values-v14', as not all of the
+        necessary attributes are available in the android: namespace on older versions of Android.
+        This means that for certain attributes we must set the attributes provided in
+        ActionBarCompat's namespace instead.
+    -->
+
+
+    <style name="AppTheme" parent="AppTheme.Base">
+
+        <item name="android:colorPrimary">@color/primaryColor</item>
+        <item name="android:colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="android:colorAccent">@color/accentColor</item>
+
+
+
+
+    </style>
+
+
+</resources>
